@@ -1,0 +1,27 @@
+    body{
+		   color:red;
+		   background:#aaa;
+		   }
+		   
+	input{
+		   width:150px;
+		   heght:60px;
+		   font-size:30pt;
+		   color:blue;
+		}
+		   
+    h1{
+		   color:green;
+		}
+	  
+    .myclass {
+		 border:5px dashed blue;
+		}
+		 
+	.aqil {
+		 color:pink;
+	    }
+		 
+	#myid {
+		 font-size:50pt;
+		}
